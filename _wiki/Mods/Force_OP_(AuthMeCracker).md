@@ -5,20 +5,7 @@ category: Mod
 ## Overview
 Force OP (a.k.a. AuthMe Cracker) is a mod that cracks AuthMe passwords. It can be used on AuthMe servers to force OP yourself by cracking the AuthMe password of an admin or to get access to other people's plots and items by cracking their AuthMe password.
 
-## Presentation Tutorial
-
-<figure class="margin20 no-margin-left no-margin-right no-margin-top padding10 shadow">
-  <div class="video-container">
-    <iframe frameborder="0" src="/forceop-tutorial/impress.html"></iframe>
-  </div>
-  <figcaption>
-    <p>
-      This is an impress.js presentation. Use the space bar or arrow keys to navigate. if that doesn't work, click on the presentation so that it becomes focused.
-    </p>
-  </figcaption>
-</figure>
-
-## Text Tutorial
+## Tutorial
 
 ### What you need
 - **A cracked server** with AuthMe or a similar plugin. [What's that?](http://www.planetminecraft.com/blog/offline-modecracked-servers---what-are-they/)
@@ -68,3 +55,5 @@ Once you're done with that, you can either give OP to your own account (using th
 - **Turn AntiSpam on** and you won't see all the annoying `Wrong password!` messages from AuthMe.
 
 - You can also **do this with normal users** to get access to their plots, items, etc.
+
+- Do not use the same IP address for normal play and for ForceOP. If you do, chances are that you could be banned for multi-accounting before being able to exploit your victim.
